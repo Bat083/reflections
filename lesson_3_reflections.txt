@@ -3,3 +3,12 @@ It's safer. Freespace. Share.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 In order to commit whenever i want
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks clone a github repository to a github repository.
+Clone is for cloning local repositories or from github to local
+branches is for a new piece of work aside the master branch
+
+I'll use fork when i want to change or develop new features to a github base project
+I'll use clone when i want to change or develop new features to a local base project
+I'll use branch when i want to change or develop new features to a local base project without affecting the master branch

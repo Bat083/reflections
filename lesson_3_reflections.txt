@@ -18,3 +18,6 @@ To be synch
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 with dropbox, zip files, etc. I guess Git is much more functional
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Different job.

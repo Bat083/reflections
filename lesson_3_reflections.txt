@@ -12,3 +12,6 @@ branches is for a new piece of work aside the master branch
 I'll use fork when i want to change or develop new features to a github base project
 I'll use clone when i want to change or develop new features to a local base project
 I'll use branch when i want to change or develop new features to a local base project without affecting the master branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+To be synch

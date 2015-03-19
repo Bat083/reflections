@@ -12,11 +12,15 @@ Adding just the files that I changed on logical changes
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When people are working on the same project but in differents functions, it's cool to freeze changes at one point and split the team in order to take care of the differents functions.
 
 How do the diagrams help you visualize the branch structure?
+It's a nice way of get a first view of the status of the project and all the differents works that is done by other member of the group.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Its a easy way of view it
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+Its fastest and reliable

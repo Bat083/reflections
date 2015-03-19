@@ -15,3 +15,6 @@ I'll use branch when i want to change or develop new features to a local base pr
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To be synch
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+with dropbox, zip files, etc. I guess Git is much more functional
